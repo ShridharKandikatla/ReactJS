@@ -17,7 +17,7 @@ if (currentTime < 12) {
   greeting = "Good Morning";
   customStyle.color = "red";
 } else if (currentTime < 18) {
-  greeting = "Good Afternoon";
+  greeting = "Good After";
   customStyle.color = "green";
 } else {
   greeting = "Good Night";
